@@ -1,0 +1,13 @@
+.hover img{
+    width: 15%;
+    padding: 30px;
+}
+
+.hover img:hover{
+    box-shadow: 3px 5px 5px rgba(255, 192, 203, 0.699);
+}
+
+.contato{  
+    margin-top: 10px;
+    width: 50%;
+}

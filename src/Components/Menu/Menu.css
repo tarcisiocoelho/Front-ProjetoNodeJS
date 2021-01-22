@@ -1,0 +1,9 @@
+.fundo{
+    background-color: rgba(255, 192, 203, 0.651);
+}
+
+.texto{
+    font-size: 15pt;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.144);
+    margin: 10px;
+}
